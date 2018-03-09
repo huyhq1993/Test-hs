@@ -1,0 +1,3 @@
+rootProject.name = 'HueGo_native'
+
+include ':app'
